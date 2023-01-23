@@ -30,7 +30,7 @@ To do:
 <div class="week-column materials" markdown="1">
 
 ### Materials
-<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/01_what-is-programming.pdf" >what-is-programming.pdf</a>
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides-MW/01_intro-to-programming.pdf" >what-is-programming.pdf</a>
 </div>
 </div>
 
