@@ -36,7 +36,7 @@ To do:
 </div>
 <br>
 
-Tuesday, September 6
+Thursday, January 26
 <div class="week" markdown="1">
 <div class="week-column topics" markdown="1">
 
