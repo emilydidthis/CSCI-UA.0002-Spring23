@@ -136,7 +136,7 @@ Using code comments, write out your plan (aka the pseudocode), IN ENGLISH, for h
 ```
 
 **Part B**  
- Now you can code the program. 
+ Now you can code the program, following your plan above.
  
  Try your best to programatically figure out the spaces; I don't want to see strings defined like this:
  ```
