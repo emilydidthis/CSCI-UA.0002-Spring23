@@ -41,10 +41,11 @@ If you believe the grading on an assignment is unfair or if you have questions a
 Due date [M/W]: Wednesday, February 1  
 Due date [T/R]: Thursday, February 2
 
-<!-- ## [**Assignment #2**]({{ site.url }}{{ site.baseurl }}/assignments/02.html) 
-Assignment date: Tuesday, September 13  
-Due date: Tuesday, September 20
+## [**Assignment #2**]({{ site.url }}{{ site.baseurl }}/assignments/02.html) 
+Due date [M/W]: Wednesday, February 8  
+Due date [T/R]: Thursday, February 9
 
+<!--
 ## [**Assignment #3**]({{ site.url }}{{ site.baseurl }}/assignments/03.html) 
 Assignment date: Tuesday, September 20  
 Due date: Tuesday, September 27
