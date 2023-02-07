@@ -101,12 +101,14 @@ Month  Starting Balance  Interest  Ending Balance
 
 You can assume that the user will enter reasonable input values (i.e. all inputted values will be valid positive floating point numbers.) Ensure that your program is formatted correctly so that your values line up as in the sample output above (hint: use the format() function.)
 
-Note that you may run into a rounding issue if you perform your calculations on numbers that may contain a floating point inaccuracy. It's recommended that you use the round function to round your floating point values to 2 decimal places before using them in a math expression. The round function can be used as follows:
+It is best practice to only format your values at the very end when creating the table. If you format your numbers along the way, you might find your final results off by 0.01. 
+
+<!-- Note that you may run into a rounding issue if you perform your calculations on numbers that may contain a floating point inaccuracy. It's recommended that you use the round function to round your floating point values to 2 decimal places before using them in a math expression. The round function can be used as follows:
 
 ```
 # round value to 2 decimal places and return a float
 value_rounded = round(value, 2)
-```
+``` -->
 
 Comment your source code and describe your code to someone who may be viewing it for the first time. Also include your name, the date, your class section and the name of your program at the top of your file.
 

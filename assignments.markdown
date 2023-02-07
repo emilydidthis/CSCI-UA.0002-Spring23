@@ -45,6 +45,10 @@ Due date [T/R]: Thursday, February 2
 Due date [M/W]: Wednesday, February 8  
 Due date [T/R]: Thursday, February 9
 
+## [**Assignment #3**]({{ site.url }}{{ site.baseurl }}/assignments/03.html) 
+Due date [M/W]: Wednesday, February 15  
+Due date [T/R]: Thursday, February 16
+
 <!--
 ## [**Assignment #3**]({{ site.url }}{{ site.baseurl }}/assignments/03.html) 
 Assignment date: Tuesday, September 20  

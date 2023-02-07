@@ -8,7 +8,7 @@ title: assignment-03
 ## Assignment #3
 For this assignment you will be writing 3 programs which should be saved independently as their own ".py" file. The filename you should use for each program is outlined in the sections below. When you're finished you should submit your programs to the Assignment #3 category inside of NYU Classes.
 
-You may work by yourself or with a partner. Remember, collaborating just entails discussing approaches to the problems; you should not be writing actual code together. If you choose to work with someone else please be sure to give them credit in your source code and on NYU classes when you submit your work.  Each member of a team must submit their own unique copy of the assignment to get credit for the assignment. 
+You may work by yourself or with a partner. Remember, collaborating just entails discussing approaches to the problems; you should not be writing actual code together. If you choose to work with someone else please be sure to give them credit in your source code and on Brightspace when you submit your work.  Each member of a team must submit their own unique copy of the assignment to get credit for the assignment. 
 
 <br>
 <a href="#problem-1-valid-triangle-tester">Problem 1 | </a>
