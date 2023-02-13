@@ -234,8 +234,8 @@ To do:
 <div class="week-column materials" markdown="1">
 
 ### Materials
-<!-- <a href="{{ site.url }}{{ site.baseurl }}/assets/slides/07-module-4.pdf">module-4.pdf</a> 
-<a href="{{ site.url }}{{ site.baseurl }}/code/05-shape-drawer.py"><code>shape-drawer.py</code></a> -->
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/module-04.pdf" >module-04.pdf</a>
+<!-- <a href="{{ site.url }}{{ site.baseurl }}/code/05-shape-drawer.py"><code>shape-drawer.py</code></a> -->
 </div>
 </div>
 <br>
