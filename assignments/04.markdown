@@ -6,20 +6,20 @@ title: assignment-04
 ---
 
 ## Assignment #4
-For this assignment you will be writing 3 programs which should be saved independently as their own ".py" file. The filename you should use for each program is outlined in the sections below. When you're finished you should submit your programs to the Assignment #4 category inside of NYU Classes.
+For this assignment you will be writing 3 programs which should be saved independently as their own ".py" file. The filename you should use for each program is outlined in the sections below. When you're finished you should submit your programs to the Assignment #4 category inside of Brightspace.
 
 You may work by yourself or with a partner. Remember, collaborating just entails discussing approaches to the problems; you should not be writing actual code together. If you choose to work with someone else please be sure to give them credit in your source code and on NYU classes when you submit your work.  Each member of a team must submit their own unique copy of the assignment to get credit for the assignment. 
 
 <br>
-<a href="#warm-up-star-drawer">Warm-Up | </a>
-<a href="#problem-1-roll-the-dice">Problem 1 | </a>
-<a href="#problem-2-pick-up-sticks">Problem 2 | </a>
-<a href="#problem-3-decimal-to-binary">Problem 3</a>
+<a href="#problem-1-star-drawer">Problem 1 | </a>
+<a href="#problem-2-roll-the-dice">Problem 2 | </a>
+<a href="#problem-3-pick-up-sticks">Problem 3 | </a>
+<a href="#problem-4-decimal-to-binary">Problem 4</a>
 
 <div class="section-break"><br></div>
 
 
-### **Warm-Up: Star Drawer**
+### **Problem 1: Star Drawer**
 
 **Part 1**
 
@@ -128,10 +128,11 @@ Number 2: 20
 5 *****
 ```
 
+This program should be named as follows: LastNameFirstName_assign4_problem1.py (for example, "ZhaoEmily_assign4_problem1)
 
 <div class="section-break"><br><br></div>
 
-### Problem 1: Roll the Dice
+### Problem 2: Roll the Dice
 In games with two dice (such as Monopoly), rolling two 6-sided dice and getting the same side or number on both dice is called "doubles" (i.e. the first die rolls a 5 and the second die rolls a 5 at the same time). One special type of "doubles" roll is called "snake eyes," which is rolling two 1's at the same time.
 
 The most common size of dice used in games today is the 6-sided dice, but there are plenty of other sizes available. For example, popular role-playing games such as Dungeons and Dragons use dice with a variety of sizes, such as 4, 12 and 20 sided dice.
@@ -210,11 +211,11 @@ Average roll for die #2: 3.00
 
 Note that the "snake eyes" roll that causes your loop to end should also count as a "doubles" roll.
 
-This program should be named as follows: LastNameFirstName_assign4_problem2.py (for example, "ZhaoEmily_assign4_problem1)
+This program should be named as follows: LastNameFirstName_assign4_problem2.py (for example, "ZhaoEmily_assign4_problem2)
 
 <div class="section-break"><br></div>
 
-### Problem #2: Pick Up Sticks
+### Problem #3: Pick Up Sticks
 
 For this assignment you will be creating an interface for two humans to play a simple game of "Pick Up Sticks". Here's how the game is played in the "real world":
 
@@ -328,11 +329,11 @@ Here are some hints to get you started:
 - Do not allow players to take more than the total # of sticks on the table (i.e. if there are 2 sticks left the player should not be able to take 3 sticks)
 - The player who takes the last stick is the loser.
 
-This program should be named as follows: LastNameFirstName_assign3_problem2.py (for example, "ZhaoEmily_assign4_problem2.py")
+This program should be named as follows: LastNameFirstName_assign3_problem3.py (for example, "ZhaoEmily_assign4_problem3.py")
 
 <div class="section-break"><br></div>
 
-### Problem #3: Decimal to Binary
+### Problem #4: Decimal to Binary
 
 In Computer Science we often work with different number systems to represent data. The most commonly used number system (which we refer to as "decimal") is a "base 10" number system, which means that we use the values 0-9 to represent all numbers.
 
@@ -447,4 +448,4 @@ Enter a number greater than or equal to 0: 256
 256 in binary is 100000000
 ```
 
-This program should be named as follows: LastNameFirstName_assign3_problem3.py (for example, “ZhaoEmily_assign4_problem3.py”)
+This program should be named as follows: LastNameFirstName_assign4_problem4.py (for example, “ZhaoEmily_assign4_problem4.py”)
