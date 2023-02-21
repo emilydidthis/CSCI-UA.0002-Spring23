@@ -291,7 +291,7 @@ To do:
 <div class="week-column materials" markdown="1">
 
 ### Materials
-<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/slides-TR/module04-pt2.pdf">module-4-review.pdf</a> 
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides-TR/module04-pt2.pdf">module-4-review.pdf</a> 
 </div>
 </div>
 <br>
