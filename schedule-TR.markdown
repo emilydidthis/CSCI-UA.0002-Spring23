@@ -326,9 +326,7 @@ To do:
 <div class="week-column materials" markdown="1">
 
 ### Materials
-<!-- <a href="{{ site.url }}{{ site.baseurl }}/assets/slides/10-module5.pdf">module-5.pdf</a>
-<a href="{{ site.url }}{{ site.baseurl }}/code/10-shape-drawer.py"><code>shape-drawer.py</code></a> -->
-
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides-TR/module05-TR.pdf">module-05.pdf</a> 
 
 </div>
 </div>
@@ -389,7 +387,7 @@ To do:
 <div class="week-column materials" markdown="1">
 
 ### Materials
-<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/12-module6.pdf">module-6.pdf</a>
+<!-- <a href="{{ site.url }}{{ site.baseurl }}/assets/slides/12-module6.pdf">module-6.pdf</a> -->
 
 </div>
 </div>
