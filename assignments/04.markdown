@@ -381,10 +381,10 @@ Enter a number greater than or equal to 0: 9
 2 / 2 = 1
 1 % 2 = 1 --- 1001
 1 / 2 = 0
+9 in binary is 1001
 ```
 
 ```
-9 in binary is 1001
 Enter a number greater than or equal to 0: 86
 86 % 2 = 0 --- 0
 86 / 2 = 43
@@ -400,10 +400,10 @@ Enter a number greater than or equal to 0: 86
 2 / 2 = 1
 1 % 2 = 1 --- 1010110
 1 / 2 = 0
+86 in binary is 1010110
 ```
 
 ```
-86 in binary is 1010110
 Enter a number greater than or equal to 0: 255
 255 % 2 = 1 --- 1
 255 / 2 = 127
@@ -421,9 +421,9 @@ Enter a number greater than or equal to 0: 255
 3 / 2 = 1
 1 % 2 = 1 --- 11111111
 1 / 2 = 0
-```
-```
 255 in binary is 11111111
+```
+```
 Enter a number greater than or equal to 0: 256
 256 % 2 = 0 --- 0
 256 / 2 = 128
@@ -443,7 +443,6 @@ Enter a number greater than or equal to 0: 256
 2 / 2 = 1
 1 % 2 = 1 --- 100000000
 1 / 2 = 0
-
 256 in binary is 100000000
 ```
 
