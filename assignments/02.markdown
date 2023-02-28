@@ -128,19 +128,22 @@ Enter another number between 0 and 999: 456
 Sum of ones     = 3 + 6 = 9
 Sum of tens     = 2 + 5 = 7
 Sum of hundreds = 1 + 4 = 5
--------------------------------------------
+```
+```
 Enter a number between 0 and 999: 0
 Enter another number between 0 and 999: 999
 Sum of ones     = 0 + 9 = 9
 Sum of tens     = 0 + 9 = 9
 Sum of hundreds = 0 + 9 = 9
--------------------------------------------
+```
+```
 Enter a number between 0 and 999: 3
 Enter another number between 0 and 999: 12
 Sum of ones     = 3 + 2 = 5
 Sum of tens     = 0 + 1 = 1
 Sum of hundreds = 0 + 0 = 0
--------------------------------------------
+```
+```
 Enter a number between 0 and 999: 982
 Enter another number between 0 and 999: 861
 Sum of ones     = 2 + 1 = 3

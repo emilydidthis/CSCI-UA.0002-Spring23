@@ -355,6 +355,7 @@ To do:
 <div class="week-column materials" markdown="1">
 
 ### Materials
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/workshop-05.pdf">workshop-05.pdf</a> 
 </div>
 </div>
 <br>
@@ -809,7 +810,7 @@ Due:
 
 <!-- ------------------------------------------------ -->
 ## Week 16
-TBA
+[Monday, May 15 — 2:00pm](https://cs.nyu.edu/dynamic/courses/exams/?level=UA) 
 <div class="week" markdown="1">
 <div class="week-column topics" markdown="1">
 
