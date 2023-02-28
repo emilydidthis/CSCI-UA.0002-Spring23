@@ -50,15 +50,14 @@ Due date [M/W]: Wednesday, February 15
 Due date [T/R]: Thursday, February 16
 
 ## [**Assignment #4**]({{ site.url }}{{ site.baseurl }}/assignments/04.html) 
-Due date [M/W]: Wednesday, February 22  
+Due date [M/W]: Monday, February 27   
 Due date [T/R]: Thursday, February 23
 
+## [**Assignment #5**]({{ site.url }}{{ site.baseurl }}/assignments/05.html) 
+Due date [M/W]: Wednesday, March 8  
+Due date [T/R]: Tuesday, March 7
+
 <!--
-
-## [**Assignment #4**]({{ site.url }}{{ site.baseurl }}/assignments/04.html) 
-Assignment date: Tuesday, September 27  
-Due date: Tuesday, October 4
-
 ## [**Assignment #5**]({{ site.url }}{{ site.baseurl }}/assignments/05.html) 
 Assignment date: Thursday, October 6  
 Due date: Tuesday, October 18

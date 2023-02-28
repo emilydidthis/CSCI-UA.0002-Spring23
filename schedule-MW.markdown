@@ -404,7 +404,7 @@ To do:
 </div>
 
 <br>
-Wednesday, March 7
+Wednesday, March 8
 <div class="week" markdown="1">
 <div class="week-column topics" markdown="1">
 
