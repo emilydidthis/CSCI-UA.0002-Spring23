@@ -823,7 +823,7 @@ Due:
 
 <!-- ------------------------------------------------ -->
 <br>
-TBA
+[Thursday, May 11, 2023 – 2pm](https://cs.nyu.edu/dynamic/courses/exams/?level=UA)
 <div class="week" markdown="1">
 <div class="week-column topics" markdown="1">
 
