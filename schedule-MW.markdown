@@ -400,7 +400,9 @@ To do:
 <div class="week-column materials" markdown="1">
 
 ### Materials
-<!-- <a href="{{ site.url }}{{ site.baseurl }}/assets/slides/12-module6.pdf">module-6.pdf</a> -->
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/slides-MW/module-06-MW.pdf">module-06.pdf</a>
+<a href="{{ site.url }}{{ site.baseurl }}/assets/code/username-handler.py" ><code>username-handler.py</code></a>
+
 
 </div>
 </div>
