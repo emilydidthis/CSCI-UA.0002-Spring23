@@ -57,10 +57,11 @@ Due date [T/R]: Thursday, February 23
 Due date [M/W]: Wednesday, March 8  
 Due date [T/R]: Tuesday, March 7
 
+## [**Assignment #6**]({{ site.url }}{{ site.baseurl }}/assignments/06.html) 
+Due date [M/W]: Monday, March 27  
+Due date [T/R]: Thursday March 23
+
 <!--
-## [**Assignment #5**]({{ site.url }}{{ site.baseurl }}/assignments/05.html) 
-Assignment date: Thursday, October 6  
-Due date: Tuesday, October 18
 
 ## [**Assignment #6**]({{ site.url }}{{ site.baseurl }}/assignments/06.html) 
 Assignment date: Tuesday, October 18  

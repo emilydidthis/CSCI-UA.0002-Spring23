@@ -6,14 +6,19 @@ title: assignment-06
 ---
 
 ## Assignment #6
-For this assignment you will be writing 3 programs which should be saved independently as their own ".py" file. The filename you should use for each program is outlined in the sections below. When you're finished you should submit your programs to the Assignment #6 category inside of NYU Classes.
+For this assignment you will be writing 3 programs which should be saved independently as their own ".py" file. The filename you should use for each program is outlined in the sections below. When you're finished you should submit your programs to the Assignment #6 category inside of Brightspace.
 
+<br>
 <a href="#problem-1-simple-functions">Problem 1 | </a>
 <a href="#problem-2">Problem 2 | </a>
 <a href="#problem-3">Problem 3</a>
+<br>
+<br> 
 
 ### Problem 1: Simple Functions
-For this part you will be completing a series of short programming challenges that use various function concepts. Each challenge should be saved as its own file.
+For this part you will be completing a series of short programming challenges that use various function concepts. Each challenge should be saved as its own file. 
+
+<br>
 
 ### Part 1a
 
@@ -75,9 +80,10 @@ distance = ______________________
 print (distance) # answer should be 141.4213562373095
 ```
 
-Recall that this is the [distance formula](https://andymath.com/wp-content/uploads/2019/08/distance-formula.jpg).
+Recall that this is the [**distance formula**](https://andymath.com/wp-content/uploads/2019/08/distance-formula.jpg).
 
 <br>
+
 ### Part 1b 
 Write two functions called 'maximum' and 'minimum' - these function should accept two arguments and return the larger/smaller of the two supplied values. For the purpose of this program you can always assume that the arguments being supplied are numeric. Describe your function using IPO notation. Your program should work perfectly with the following code:
 
@@ -100,10 +106,10 @@ print (ans4,ans5,ans6) # 15 10 5
 ans7 = maximum( maximum(a,b), maximum(c,d) )
 print ("The biggest is:", ans7)
 ```
-
 <br>
+
 ### Part 1c  
-Write a function called 'valid_date' which accepts two arguments - a month and a day (both integers, will always be integers). Test to see if the date being described is valid or not. If the date is valid your function should return a True value, and if it is not it should return a False value. For the purpose of this program you can assume February has 28 days. Describe your function using IPO notation. Your program should work perfectly with the following code:
+Write a function called 'valid_date' which accepts two arguments — a month and a day (both integers, will always be integers). Test to see if the date being described is valid or not. If the date is valid your function should return a True value, and if it is not it should return a False value. For the purpose of this program you can assume February has 28 days. Describe your function using IPO notation. Your program should work perfectly with the following code:
 
 ```
 print (valid_date(99,1)) # False
@@ -178,14 +184,14 @@ Write a series of five functions that determine if a given positive integer is E
 # processing: determines if the supplied number is even 
 # output:     boolean
 ```
-<br>
+
 ```
 # function:   is_odd
 # input:      a positive integer
 # processing: determines if the supplied number is odd
 # output:     boolean
 ```
-<br>
+
 ```
 # function:   is_prime
 # input:      a positive integer
@@ -198,7 +204,6 @@ Write a series of five functions that determine if a given positive integer is E
 #             to find additional factors?
 # output:     boolean
 ```
-<br>
 ```
 # function:   is_perfect
 # input:      a positive integer
@@ -207,7 +212,6 @@ Write a series of five functions that determine if a given positive integer is E
 #             number 6 is perfect because 6 = 1 + 2 + 3)
 # output:     boolean
 ```
-<br>
 ```
 # function:   is_abundant
 # input:      a positive integer
@@ -283,7 +287,7 @@ Enter ending number: 30
 
 <br>
 ### Part 2b: Number Analyzer
-Next, write a program that prompts the allows the user to analyze numbers within a given range for numbers that fit the above criteria. The program should continue to execute as long as the user wishes to keep going. Your program should rely on the functions you wrote for part 2a - you shouldn't have to re-write the routines that you worked out to compute whether a number is prime, abundant, perfect, odd or even. Here's a sample running of the program:
+Next, write a program that prompts the allows the user to analyze numbers within a given range for numbers that fit the above criteria. The program should continue to execute as long as the user wishes to keep going. Your program should rely on the functions you wrote for part 2a — you shouldn't have to re-write the routines that you worked out to compute whether a number is prime, abundant, perfect, odd or even. Here's a sample running of the program:
 
 ```
 Main Menu
@@ -677,9 +681,8 @@ def number_1(width, character):
 	pattern = vertical_line(width-1, 5, character)
 	return pattern
 ```
-<br>
+
 And here's a sample program that calls the function a few times (test this in your main program, not in your module):
-<br>
 
 ```
 print ("Number 1, width=5: ")
@@ -697,7 +700,6 @@ temp = digitalclock.number_1(2, '*')
 print(temp)
 print()
 ```
-<br>
 And here's the expected output:
 ```
 Number 1, width=5: 
@@ -723,7 +725,6 @@ Number 1, width=2:
  *
  *
 ```
-<br>
 Here's a sample program that prints all of the numbers (0-9).
 
 ```
@@ -767,7 +768,6 @@ temp = digitalclock.number_9(5, '*')
 print(temp)
 print()
 ```
-<br>
 And here's the expected output:
 ```
 *****
@@ -864,7 +864,6 @@ digitalclock.print_number(7, 12, '*')
 digitalclock.print_number(8, 13, '*')
 digitalclock.print_number(9, 14, '*')
 ```
-<br>
 And here's the expected output:
 ```
 *****
@@ -983,7 +982,7 @@ Write a function called "check_answer" which will determine if a given addition 
 #             (1 + 2 = 3).
 # output:     returns True if the expression is correct, False if it is not correct
 ```
-<br>
+
 Here's a sample program that you can use to test your function:
 ```
 answer1 = digitalclock.check_answer(1, 2, 3, "+")
@@ -995,7 +994,7 @@ print (answer3)
 answer4 = digitalclock.check_answer(8, 2, 4, "-")
 print (answer4)
 ```
-<br>
+
 And here's the expected output:
 ```
 True
