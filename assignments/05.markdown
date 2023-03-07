@@ -167,7 +167,7 @@ This program should be named as follows: LastNameFirstName_assign5_prob2c.py
 <div class="section-break"><br></div>
 
 ### Part 2d: Tabular Formatting
-Print the prime numbers that you find within the given range so that only 10 numbers print per line. Align the numbers so that they stack neatly on top of one another in all cases (i.e. the table should line up no matter what number range you are analyzing). The table you generate should use the MINIMUM amount of spaces needed to align itself (i.e. if the largest number if your range is "100" then all of your values should be formatted to be exactly 4 characters in size. If the highest value in your range is "1000" then all values should be formatted to be 5 characters in size). Here's a sample running of the program:
+Print the prime numbers that you find within the given range so that only 10 numbers print per line. Align the numbers so that they stack neatly on top of one another in all cases (i.e. the table should line up no matter what number range you are analyzing). The table you generate should use the MINIMUM amount of spaces needed to align itself (i.e. if the largest number if your range is "100" then all of your values should be formatted to be exactly 4 characters in size. If the highest value in your range is "1000" then all values should be formatted to be 5 characters in size). Remember, you can use the `len()` function to help you calculate the length of a string. For example, `len("hello")` returns a value of 5. Here's a sample running of the program:
 
 ```
 Start number: 1
