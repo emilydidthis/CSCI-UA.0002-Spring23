@@ -428,8 +428,10 @@ Thursday, March 9
 
 ### Topics
 - Functions Part II
+- [Mock Midterm Editable Doc](https://docs.google.com/document/d/1cK0xFWN7kdnqo5X4uviQq0ZY4X1a7XTElyp_KLXVHI0/copy)
+- [Mock Midterm PDF](https://drive.google.com/file/d/1m-ei3xpQMsO1pqUp-i-dPaDZzXAl69og/view?usp=sharing)
+- [Mock Midterm Solutions – PENDING]()
 - Midterm Survey
-- Midterm Review Game
 </div>
 <div class="week-column assigned" markdown="1">
 
@@ -444,7 +446,7 @@ To do:
 <div class="week-column materials" markdown="1">
 
 ### Materials
-<!-- <a href="{{ site.url }}{{ site.baseurl }}/assets/slides/14-modules-midterm-review.pdf">midterm-review.pdf</a> -->
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides-TR/module-06-midterm-review.pdf">module-06-midterm-review.pdf</a>
 </div>
 </div>
 
@@ -528,7 +530,7 @@ To do:
 <div class="week-column materials" markdown="1">
 
 ### Materials
-<!-- <a href="{{ site.url }}{{ site.baseurl }}/assets/slides/15-module7.pdf">15-module7.pdf</a> -->
+
 </div>
 </div>
 <br>
