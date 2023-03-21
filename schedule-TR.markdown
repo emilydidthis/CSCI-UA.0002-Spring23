@@ -481,9 +481,8 @@ Tuesday, March 21
 ### Topics
 - **Midterm Exam Review Session**
 
-<!-- - [Midterm Review Editable Doc](https://docs.google.com/document/d/128-CuBZd251M4MoBsUZNB0eMhxc24eUWGe5_X7FfUIA/copy)
-- [Midterm Review PDF](https://drive.google.com/file/d/13YzLsZs7ZPrjIeGm4-idUKVfOcUjuxcD/view?usp=sharing)
-- [Midterm Review SOLUTIONS](https://docs.google.com/document/d/1xl0ar5-xXfa5IM9dkp6YPTSYz2ssPooZxSjbR7GF8GE/edit?usp=sharing) -->
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides-TR/_midterm-review.pdf">_midterm-review.pdf</a>
+
 
 </div>
 </div>
