@@ -490,10 +490,22 @@ Wednesday, March 22
 
 ### Topics
 - **Midterm Exam Review Session**
+</div>
+<div class="week-column assigned" markdown="1">
 
-<!-- - [Midterm Review Editable Doc](https://docs.google.com/document/d/128-CuBZd251M4MoBsUZNB0eMhxc24eUWGe5_X7FfUIA/copy)
-- [Midterm Review PDF](https://drive.google.com/file/d/13YzLsZs7ZPrjIeGm4-idUKVfOcUjuxcD/view?usp=sharing)
-- [Midterm Review SOLUTIONS](https://docs.google.com/document/d/1xl0ar5-xXfa5IM9dkp6YPTSYz2ssPooZxSjbR7GF8GE/edit?usp=sharing) -->
+### Assigned
+Due:  
+- Nothing
+
+To do:  
+- Study!
+- Assignment 6
+</div>
+
+<div class="week-column materials" markdown="1">
+
+### Materials
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/midterm-review.pdf">midterm-review.pdf</a>
 
 </div>
 </div>

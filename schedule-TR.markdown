@@ -451,6 +451,7 @@ To do:
 </div>
 
 
+
 <!-- ------------------------------------------------ -->
 ## Week 8
 Tuesday, March 14
@@ -480,10 +481,23 @@ Tuesday, March 21
 
 ### Topics
 - **Midterm Exam Review Session**
+</div>
 
-<a href="{{ site.url }}{{ site.baseurl }}/assets/slides-TR/_midterm-review.pdf">_midterm-review.pdf</a>
+<div class="week-column assigned" markdown="1">
 
+### Assigned
+Due:  
+- Nothing
 
+To do:  
+- Study!
+- Assignment 6
+</div>
+
+<div class="week-column materials" markdown="1">
+
+### Materials
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/midterm-review.pdf">midterm-review.pdf</a>
 </div>
 </div>
 
