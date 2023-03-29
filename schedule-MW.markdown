@@ -551,7 +551,7 @@ To do:
 <div class="week-column materials" markdown="1">
 
 ### Materials
-<!-- <a href="{{ site.url }}{{ site.baseurl }}/assets/slides/15-module7.pdf">15-module7.pdf</a> -->
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/module-07-updated.pdf">module-07.pdf</a>
 </div>
 </div>
 
