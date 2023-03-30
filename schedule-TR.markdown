@@ -552,6 +552,7 @@ Thursday, March 30
 <div class="week-column topics" markdown="1">
 
 ### Topics
+- Go over Midterm
 - In-class programming assignment
 </div>
 <div class="week-column assigned" markdown="1">
