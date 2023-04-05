@@ -610,6 +610,7 @@ To do:
 
 ### Materials
 
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/module-08.pdf">module-08.pdf</a>
 </div>
 </div>
 <br>
