@@ -4,6 +4,13 @@ layout: assignments
 title: assignment-07
 
 ---
+<br>
+<a href="#part-1a">Problem 1 | </a>
+<a href="#part-2a">Problem 2 | </a>
+<a href="#part-3a">Problem 3 | </a>
+<a href="#part-4">Problem 4</a>
+<br>
+<br> 
 
 ## Assignment #7
 For this assignment you will be writing a series of programs that should be stored in their own "py" files. The filenames you should use are listed at the end of each part. When you're finished you should submit your program to the Assignment #7 category inside of NYU Classes.
