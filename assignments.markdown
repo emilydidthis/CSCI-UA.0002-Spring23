@@ -63,17 +63,14 @@ Due date [T/R]: Thursday, March 23
 
 ## [**Assignment #7**]({{ site.url }}{{ site.baseurl }}/assignments/07.html) 
 Due date [M/W]: Monday, April 10  
-Due date [T/R]: Thursday, April 6
+Due date [T/R]: Thursday, April 6  
+
+## [**Assignment #8**]({{ site.url }}{{ site.baseurl }}/assignments/08.html) 
+Due date [M/W]: Monday, April 17  
+Due date [T/R]: Thursday, April 13
 
 <!--
 
-## [**Assignment #6**]({{ site.url }}{{ site.baseurl }}/assignments/06.html) 
-Assignment date: Tuesday, October 18  
-Due date: Thursday, October 27
-
-## [**Assignment #7**]({{ site.url }}{{ site.baseurl }}/assignments/07.html) 
-Assignment date: Thursday, November 3  
-Due date: Thursday, November 10
 
 
 ## [**Assignment #8**]({{ site.url }}{{ site.baseurl }}/assignments/08.html) 
