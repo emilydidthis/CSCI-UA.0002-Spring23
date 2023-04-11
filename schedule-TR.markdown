@@ -658,7 +658,7 @@ To do:
 
 ### Materials
 <a href="{{ site.url }}{{ site.baseurl }}/assets/slides/module-09.pdf">module-09.pdf</a>
-<a href="{{ site.url }}{{ site.baseurl }}assets/code/testscores.txt">`testscores.txt`</a>
+<a href="{{ site.url }}{{ site.baseurl }}/assets/code/testscores.txt">`testscores.txt`</a>
 </div>
 </div>
 
