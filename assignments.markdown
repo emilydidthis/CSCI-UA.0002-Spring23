@@ -69,6 +69,10 @@ Due date [T/R]: Thursday, April 6
 Due date [M/W]: Monday, April 17  
 Due date [T/R]: Thursday, April 13
 
+## [**Assignment #9**]({{ site.url }}{{ site.baseurl }}/assignments/09.html) 
+Due date [M/W]: Monday, April 24  
+Due date [T/R]: Thursday, April 20
+
 <!--
 
 
