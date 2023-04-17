@@ -453,7 +453,7 @@ Computer hand: ['2 of Spades', '5 of Hearts'] is worth 7
 Computer drew Jack of Clubs
 Computer hand: ['2 of Spades', '5 of Hearts', 'Jack of Clubs'] is worth 17
 Computer drew 4 of Clubs
-Dealer hand: ['2 of Spades', '5 of Hearts', 'Jack of Clubs', '4 of Clubs'] is worth 21
+Computer hand: ['2 of Spades', '5 of Hearts', 'Jack of Clubs', '4 of Clubs'] is worth 21
 Computer got 21!  Blackjack!
 Computer wins!
 >>> ================================ RESTART ================================
