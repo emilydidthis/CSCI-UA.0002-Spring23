@@ -706,8 +706,8 @@ Due:
 (Third Edition: Chapter 9; Second Edition: Chapter 10)
 
 To do:  
-- [Self-Paced Learning Module #11 (Optional)](https://cs.nyu.edu/elearning/CSCI_UA_0002/module11.php)
-- [Quiz #11 (Optional)](https://brightspace.nyu.edu/d2l/home/223178)
+- [Self-Paced Learning Module #11](https://cs.nyu.edu/elearning/CSCI_UA_0002/module11.php)
+- [Quiz #11](https://brightspace.nyu.edu/d2l/home/223178)
 </div>
 <div class="week-column materials" markdown="1">
 
@@ -761,7 +761,7 @@ Tuesday, April 25
 
 ### Assigned
 Due:
-- [Self-Paced Learning Module #11 (Optional)](https://cs.nyu.edu/elearning/CSCI_UA_0002/module11.php)
+- [Self-Paced Learning Module #11 ](https://cs.nyu.edu/elearning/CSCI_UA_0002/module11.php)
 - Gaddis (textbook) Chapter #10
 (Third Edition: Chapter 10;Second Edition: Chapter 11)
 
