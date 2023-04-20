@@ -253,7 +253,7 @@ print (test3)
 ### Part 2b
 Next, you will need a series of files to search. For the purpose of this program we are providing you with a ZIP file that contains over a hundred random paragraphs of text. These paragraphs have been obtained from [**this website**](https://randomwordgenerator.com/paragraph.php).
 
-[**Download this ZIP file**](https://emilydidthis.github.io/CSCI-UA.0002-009/assignments/assignment-resources/assignment10_data-v2.zip) now and extract it to your computer. Move the 'data' folder that you extract to the folder where you are writing your assignment. Your file structure should look like the following:
+<a href="{{ site.url }}{{ site.baseurl }}/assets/text-files/assignment10_data-v2.zip" download>**Download this ZIP file**</a> now and extract it to your computer. Move the 'data' folder that you extract to the folder where you are writing your assignment. Your file structure should look like the following:
 
 ```
 assignment10/                                           (folder)
