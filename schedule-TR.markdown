@@ -792,7 +792,7 @@ Due:
 - Assignment #10
 
 To do:  
-- Assignment #11: due day of Final Exam
+- Assignment #11
 </div>
 </div>
 
@@ -803,7 +803,10 @@ Tuesday, May 2
 <div class="week-column topics" markdown="1">
 
 ### Topics
-- **Review for final exam**
+- **In-Class Mock Final**
+- [Mock Final Editable Doc](https://docs.google.com/document/d/1AvLkyViBS531IZhR4WguV-FO04XUDYmnKF135OmdbkM/copy#)
+- [Mock Midterm PDF](https://drive.google.com/file/d/1PsepxCfMxjpQgz6-LCbLcgLLbWIMpBks/view?usp=share_link)
+- [Mock Midterm Solutions](https://drive.google.com/file/d/1kmmP3EE3lJfeLm1_DWj4UZvJ_3wRyTml/view?usp=sharing)
 </div>
 
 </div>

@@ -814,6 +814,9 @@ Wednesday, May 3
 
 ### Topics
 - **In-Class Mock Final**
+- [Mock Final Editable Doc](https://docs.google.com/document/d/1AvLkyViBS531IZhR4WguV-FO04XUDYmnKF135OmdbkM/copy#)
+- [Mock Midterm PDF](https://drive.google.com/file/d/1PsepxCfMxjpQgz6-LCbLcgLLbWIMpBks/view?usp=share_link)
+- [Mock Midterm Solutions](https://drive.google.com/file/d/1kmmP3EE3lJfeLm1_DWj4UZvJ_3wRyTml/view?usp=sharing)
 </div>
 
 </div>
