@@ -794,6 +794,14 @@ Due:
 To do:  
 - Assignment #11
 </div>
+
+<div class="week-column materials" markdown="1">
+
+### Materials
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/module-11.pdf">module-11.pdf</a>
+<a href="{{ site.url }}{{ site.baseurl }}/assets/code/dict-review.py">dict-review.py</a>
+</div>
+
 </div>
 
 <!-- ------------------------------------------------ -->
@@ -807,6 +815,12 @@ Tuesday, May 2
 - [Mock Final Editable Doc](https://docs.google.com/document/d/1AvLkyViBS531IZhR4WguV-FO04XUDYmnKF135OmdbkM/copy#)
 - [Mock Midterm PDF](https://drive.google.com/file/d/1PsepxCfMxjpQgz6-LCbLcgLLbWIMpBks/view?usp=share_link)
 - [Mock Midterm Solutions](https://drive.google.com/file/d/1kmmP3EE3lJfeLm1_DWj4UZvJ_3wRyTml/view?usp=sharing)
+</div>
+
+<div class="week-column materials" markdown="1">
+
+### Materials
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/finals-topics.pdf">topics-on-final.pdf</a>
 </div>
 
 </div>
