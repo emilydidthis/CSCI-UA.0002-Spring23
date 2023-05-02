@@ -780,7 +780,8 @@ To do:
 <div class="week-column materials" markdown="1">
 
 ### Materials
-<!-- <a href="{{ site.url }}{{ site.baseurl }}/assets/slides/finals-review-1.pdf">Final Review 1</a> -->
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/module-11.pdf">module-11.pdf</a>
+<a href="{{ site.url }}{{ site.baseurl }}/assets/code/dict-review.py">dict-review.py</a>
 </div>
 </div>
 
@@ -802,7 +803,7 @@ Due:
 - Assignment #10
 
 To do:  
-- Assignment #11: due day of Final Exam
+- Assignment #11
 </div>
 </div>
 <br>
@@ -812,7 +813,7 @@ Wednesday, May 3
 <div class="week-column topics" markdown="1">
 
 ### Topics
-- **Review for final exam**
+- **In-Class Mock Final**
 </div>
 
 </div>

@@ -78,7 +78,7 @@ Due date [M/W]: Monday, May 1
 Due date [T/R]: Thursday, April 27
 
 ## [**Assignment #11**]({{ site.url }}{{ site.baseurl }}/assignments/on-deck/11.html) 
-Due date [M/W]: Monday, May 8 
+Due date [M/W]: Monday, May 8   
 Due date [T/R]: Thursday, May 4
 
 <!--
