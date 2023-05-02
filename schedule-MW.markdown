@@ -819,6 +819,12 @@ Wednesday, May 3
 - [Mock Midterm Solutions](https://drive.google.com/file/d/1kmmP3EE3lJfeLm1_DWj4UZvJ_3wRyTml/view?usp=sharing)
 </div>
 
+<div class="week-column materials" markdown="1">
+
+### Materials
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/finals-topics.pdf">topics-on-final.pdf</a>
+</div>
+
 </div>
 <br>
 

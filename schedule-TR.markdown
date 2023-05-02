@@ -795,12 +795,6 @@ To do:
 - Assignment #11
 </div>
 
-<div class="week-column materials" markdown="1">
-
-### Materials
-<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/module-11.pdf">module-11.pdf</a>
-<a href="{{ site.url }}{{ site.baseurl }}/assets/code/dict-review.py">dict-review.py</a>
-</div>
 
 </div>
 
