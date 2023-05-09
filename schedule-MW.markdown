@@ -817,6 +817,9 @@ Wednesday, May 3
 - [Mock Final Editable Doc](https://docs.google.com/document/d/1AvLkyViBS531IZhR4WguV-FO04XUDYmnKF135OmdbkM/copy#)
 - [Mock Midterm PDF](https://drive.google.com/file/d/1PsepxCfMxjpQgz6-LCbLcgLLbWIMpBks/view?usp=share_link)
 - [Mock Midterm Solutions](https://drive.google.com/file/d/1kmmP3EE3lJfeLm1_DWj4UZvJ_3wRyTml/view?usp=sharing)
+- [Mock Midterm Solutions – Annotated](https://drive.google.com/file/d/1zwz0BMIqguyhHak1y5FC3fasZeOl1uTM/view?usp=sharing)
+
+
 </div>
 
 <div class="week-column materials" markdown="1">
